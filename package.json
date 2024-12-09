@@ -1,0 +1,15 @@
+{
+  "name": "desafio_moutis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.8"
+  }
+}

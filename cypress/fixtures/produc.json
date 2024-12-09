@@ -1,0 +1,8 @@
+{
+    "name": "New Product",
+    "description": "This text is for test purpose when adding new item.",
+    "price": "99",
+    "quantity": "100",
+    "imagePath": "cypress/fixtures/test_image.png"
+  }
+  
